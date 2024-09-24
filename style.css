@@ -57,7 +57,7 @@ body {
 
 .social-conteiner {
   margin-top: 30px;
-  text-decoration: none;
+
 }
 
 .social-link {
@@ -70,7 +70,7 @@ body {
   padding-right: 4px;
   padding-bottom: 8px;
   background-color: #e39a1cff;
-  border-radius: 6px;
+  border-radius: 10%;
   border: none;
   cursor: pointer;
   margin-left: 15px;
@@ -81,7 +81,9 @@ body {
   padding-left: 4px;
   padding-right: 4px;
   padding-bottom: 8px;
+
 }
 .sub-form {
   margin-top: 30px;
+
 }
