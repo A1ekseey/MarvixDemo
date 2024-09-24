@@ -23,7 +23,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url(/img/2148643780.jpg);
+  background-image: url("/img/2148643780.jpg");
   background-size: cover;
   z-index: -1;
 }
@@ -52,10 +52,12 @@ body {
   height: 30px;
   width: 30px;
   margin-right: 10px;
+ 
 }
 
 .social-conteiner {
   margin-top: 30px;
+  text-decoration: none;
 }
 
 .social-link {
