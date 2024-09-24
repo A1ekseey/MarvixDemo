@@ -23,12 +23,18 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url("/img/2148643780.jpg");
+  background-image: linear-gradient(
+      to bottom,
+      rgba(46, 47, 66, 0.7),
+      rgba(46, 47, 66, 0.7)
+    ),
+    url(/img/2148643780.jpg);
   background-size: cover;
   z-index: -1;
 }
 
 .text-conteiner {
+  
   background-color: #f2d469ff;
   text-align: center;
   padding-top: 30px;
