@@ -1,91 +1,85 @@
 html {
-    height: 100%;
-    width: 100%;
-  }
-  
-  body {
-    height: 100%;
-    width: 100%;
-    font-family: "Montserrat", sans-serif;
-  }
-  
-  .main {
-    height: 100%;
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  
-  }
-  
-  
-  .backgroud {
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-image: url(/img/2148643780.jpg);
-    background-size: cover;
-    z-index: -1;
-  }
-  
-  .text-conteiner {
-    background-color: #f2d469ff;
-    text-align: center;
-    padding-top: 30px;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
-    border-radius: 15px;
-  }
-  
-  .text-descr {
-    font-size: 16px;
-    font-weight: 400px;
-  }
-  
-  .text-titel {
-    font-size: 45px;
-    font-weight: 500px;
-  }
-  
-  .social-icon {
-    height: 30px;
-    width: 30px;
-    margin-right: 10px;
-  
-  }
-  
-  .social-conteiner {
-    margin-top: 30px;
-  }
-  
-  .social-link {
-    text-decoration: none;
-  }
-  
-  .sub-button {
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 8px;
-    background-color: #e39a1cff;
-    border-radius: 6px;
-    border: none;
-    cursor: pointer;
-    margin-left: 15px;
-  }
-  
-  .sub-input {
-    padding-top: 8px;
-    padding-left: 4px;
-    padding-right: 4px;
-    padding-bottom: 8px;
-  }
-  .sub-form {
-    margin-top: 30px;
-  }
+  height: 100%;
+  width: 100%;
+}
 
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+}
 
+.main {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
+.backgroud {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url(/img/2148643780.jpg);
+  background-size: cover;
+  z-index: -1;
+}
+
+.text-conteiner {
+  background-color: #f2d469ff;
+  text-align: center;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+  border-radius: 15px;
+}
+
+.text-descr {
+  font-size: 16px;
+  font-weight: 400px;
+}
+
+.text-titel {
+  font-size: 45px;
+  font-weight: 500px;
+}
+
+.social-icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 10px;
+}
+
+.social-conteiner {
+  margin-top: 30px;
+}
+
+.social-link {
+  text-decoration: none;
+}
+
+.sub-button {
+  padding-top: 8px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-bottom: 8px;
+  background-color: #e39a1cff;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+.sub-input {
+  padding-top: 8px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-bottom: 8px;
+}
+.sub-form {
+  margin-top: 30px;
+}
